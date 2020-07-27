@@ -3,7 +3,7 @@
 
 # Summary
 
-- This is a safe, inclusive space.
+- This is a safe, inclusive space for people with all kinds of diabetes and allies.
 - Be respectful of others.
 - Consider the stakes.
 - Help contribute to an organized Discord.
@@ -27,7 +27,7 @@ Additionally,
 - Be considerate, kind, constructive, and helpful.
 - Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
 - Don’t be a bystander. Role model respectful behavior, but also help to address disrespect when you see it.
-- Disrespectful behavior outside this community may be considered a violation of these house rules at the discretion of the administrators.
+- Disrespectful behavior outside this community may be considered a violation of these house rules at the discretion of the administrators. 
 
 # Housekeeping
 ## Channels
